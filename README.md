@@ -23,3 +23,5 @@ To run the notebooks, you will be required to have `jupyter notebook` installed 
 - Launch jupyter notebooks using 
 
 ```jupyter notebook```
+
+## Final Day Project Ideas 
